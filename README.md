@@ -2,4 +2,5 @@
 github images
 
 example:
-![image]()
+![image](nothing)
+![image](https://github.com/youhuangla/images/blob/main/20151004170236_Uz4vt.jpeg)
