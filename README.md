@@ -1,2 +1,2 @@
-# pic
-github picture
+# images
+github images
